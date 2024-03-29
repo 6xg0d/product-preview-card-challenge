@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL here](https://your-solution-url.com)
+- [Solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-challenge-solution-O3qxe2TOQL)
 - [Live site](https://6xg0d.github.io/product-preview-card-challenge/)
 
 ## My process
